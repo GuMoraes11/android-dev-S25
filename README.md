@@ -1,8 +1,4 @@
 # android-dev-S25
 Repository for android development.
 
-       |\      _,,,---,,_
- ZZZzz /,`.-'`'    -.  ;-;;,_
-      |,4-  ) )-,_. ,\ (  `'-'
-     '---''(_/--'  `-'\_)  
-
+im sad i was adding ascii art but it aint working so this will do
